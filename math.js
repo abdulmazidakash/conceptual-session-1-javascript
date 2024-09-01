@@ -16,11 +16,24 @@ var value = divide.toFixed(4);
 
 // var value = parseFloat(divide.toFixed(4));
 // var value = parseInt(divide.toFixed(4));
-console.log(5 + value);
+// console.log(5 + value);
 
 //parseFloat(), parseInt()
 
 var x = 3;
-console.log(x ** 4);
+// console.log(x ** 4);
 
-console.log(10 % 3);
+// console.log(10 % 3);
+
+var x = 5;
+// x = x + 2;
+x += 2;
+x = x - 2;
+x -= 1;
+
+x++;
+x--;
+
+console.log(x);
+
+
