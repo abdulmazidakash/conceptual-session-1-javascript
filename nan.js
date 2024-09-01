@@ -28,8 +28,15 @@
 // == check only values 
 // === check values with its data types 
 
-var x = 5;
-var y = '5';
+// var x = 5;
+// var y = '5';
 
-console.log(x == y);
-console.log(x === y);
+// console.log(x == y);
+// console.log(x === y);
+
+// var x = '';
+// console.log(!x);
+
+var x;
+console.log(!!x);
+
